@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" fill="none">
+  <rect width="900" height="900" fill="#EFE9DE"/>
+  <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".76" numOctaves="4"/></filter>
+  <rect width="900" height="900" filter="url(#noise)" opacity=".15"/>
+  <ellipse cx="450" cy="742" rx="250" ry="46" fill="#1F241D" opacity=".16"/>
+  <path d="M210 356h202c30 0 54 24 54 54v230c0 52-42 94-94 94H250c-52 0-94-42-94-94V410c0-30 24-54 54-54Z" fill="#F8F2E8"/>
+  <path d="M184 460h260v120H184z" fill="#B46A3C"/>
+  <path d="M474 242h180c30 0 54 24 54 54v344c0 52-42 94-94 94H514c-52 0-94-42-94-94V296c0-30 24-54 54-54Z" fill="#F8F2E8"/>
+  <path d="M448 386h238v148H448z" fill="#30362B"/>
+  <path d="M504 177h124v78H504z" fill="#24251F"/>
+  <text x="314" y="535" text-anchor="middle" font-size="44" font-family="Arial, sans-serif" font-weight="800" fill="#F8F2E8">WHEY</text>
+  <text x="567" y="476" text-anchor="middle" font-size="48" font-family="Arial, sans-serif" font-weight="800" fill="#F8F2E8">STACK</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" fill="none">
+  <rect width="900" height="900" fill="#F4EEE3"/>
+  <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".72" numOctaves="4"/></filter>
+  <rect width="900" height="900" filter="url(#noise)" opacity=".14"/>
+  <ellipse cx="450" cy="730" rx="190" ry="34" fill="#1F241D" opacity=".16"/>
+  <path d="M295 185h310l48 520c4 46-32 85-78 85H325c-46 0-82-39-78-85l48-520Z" fill="#F8F2E8"/>
+  <path d="M295 185h310l14 150H281l14-150Z" fill="#C47A44"/>
+  <path d="M314 410h272v164H314z" fill="#353631"/>
+  <path d="M352 454h196v16H352v-16Zm0 48h142v12H352v-12Z" fill="#F8F2E8"/>
+  <text x="450" y="642" text-anchor="middle" font-size="44" font-family="Arial, sans-serif" font-weight="800" fill="#353631">EAA</text>
+</svg>

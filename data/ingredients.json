@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ing-001",
+    "name": "Kreatin Monohidrat",
+    "category": "Performans",
+    "description": "Kuvvet antrenmanı yapan kullanıcılar için en çok araştırılan içeriklerden biridir.",
+    "dose": "Günlük 3-5 g",
+    "proofPoint": "Kısa süreli yoğun eforlarda ATP yenilenmesini desteklemeye yardımcı olur."
+  },
+  {
+    "id": "ing-002",
+    "name": "Whey Protein İzolat",
+    "category": "Toparlanma",
+    "description": "Yüksek protein oranı ve hızlı sindirim profiliyle günlük protein alımını tamamlamak için kullanılır.",
+    "dose": "Porsiyon başına 25 g protein",
+    "proofPoint": "Direnç antrenmanı sonrası kas protein sentezini destekleyen amino asitleri sağlar."
+  },
+  {
+    "id": "ing-003",
+    "name": "L-Sitrülin Malat",
+    "category": "Kan Akışı",
+    "description": "Antrenman öncesi ürünlerde kan akışı ve pompa hissi için sık kullanılır.",
+    "dose": "Antrenman öncesi 6 g",
+    "proofPoint": "Nitrik oksit yolu üzerinden egzersiz verimini desteklemek amacıyla kullanılır."
+  },
+  {
+    "id": "ing-004",
+    "name": "Beta-Alanin",
+    "category": "Dayanıklılık",
+    "description": "Kısa ve yoğun eforlarda kullanılan, düzenli alımla anlam kazanan bir içeriktir.",
+    "dose": "Günlük 3.2-6 g",
+    "proofPoint": "Karıncalanma hissi yaygın ve genellikle zararsızdır; bölünmüş dozlarla azaltılabilir."
+  },
+  {
+    "id": "ing-005",
+    "name": "Elektrolit Matrisi",
+    "category": "Hidrasyon",
+    "description": "Terlemenin arttığı antrenmanlarda sıvı ve mineral dengesine destek olur.",
+    "dose": "650 mg sodyum",
+    "proofPoint": "Uzun süreli veya sıcak ortam antrenmanlarında mineral kaybını yönetmeye yardımcı olur."
+  },
+  {
+    "id": "ing-006",
+    "name": "Magnezyum Bisglisinat",
+    "category": "Uyku ve Gevşeme",
+    "description": "Kas fonksiyonu ve sinir sistemi için önemli bir mineral formudur; gece toparlanma rutinlerinde tercih edilir.",
+    "dose": "200 mg",
+    "proofPoint": "Normal kas fonksiyonu ve sinir sistemi işleyişine katkıda bulunur."
+  }
+]

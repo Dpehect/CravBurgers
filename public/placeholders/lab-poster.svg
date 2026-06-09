@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" fill="none">
+  <rect width="1600" height="1000" fill="#EEE8DD"/>
+  <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".82" numOctaves="4"/></filter>
+  <rect width="1600" height="1000" filter="url(#noise)" opacity=".12"/>
+  <path d="M0 700C260 560 388 640 628 500C850 370 1025 310 1600 410V1000H0V700Z" fill="#D8C8B5"/>
+  <path d="M180 760h1240" stroke="#2F332B" stroke-width="2" opacity=".32"/>
+  <path d="M420 250h760v410H420z" stroke="#2F332B" stroke-width="3" opacity=".42"/>
+  <circle cx="800" cy="455" r="120" stroke="#B46A3C" stroke-width="18"/>
+  <path d="M706 455h188M800 361v188" stroke="#B46A3C" stroke-width="12"/>
+  <text x="800" y="825" text-anchor="middle" font-size="62" font-family="Arial, sans-serif" font-weight="800" fill="#2F332B">HUMAN PERFORMANCE LAB</text>
+</svg>

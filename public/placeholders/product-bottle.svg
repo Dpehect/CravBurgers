@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" fill="none">
+  <rect width="900" height="900" fill="#EFE9DE"/>
+  <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".78" numOctaves="4"/></filter>
+  <rect width="900" height="900" filter="url(#noise)" opacity=".14"/>
+  <ellipse cx="450" cy="730" rx="150" ry="34" fill="#1F241D" opacity=".18"/>
+  <path d="M380 185h140v92H380z" fill="#2C2D28"/>
+  <path d="M346 266h208c28 0 50 22 50 50v328c0 58-47 105-105 105h-98c-58 0-105-47-105-105V316c0-28 22-50 50-50Z" fill="#F8F2E8"/>
+  <path d="M319 390h262v198H319z" fill="#323A2B"/>
+  <circle cx="450" cy="489" r="54" stroke="#C47A44" stroke-width="12"/>
+  <text x="450" y="632" text-anchor="middle" font-size="30" font-family="Arial, sans-serif" font-weight="700" fill="#323A2B">DAILY SYSTEM</text>
+</svg>

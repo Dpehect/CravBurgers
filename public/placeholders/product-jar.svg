@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" fill="none">
+  <rect width="900" height="900" fill="#F5EFE4"/>
+  <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".7" numOctaves="4"/></filter>
+  <rect width="900" height="900" filter="url(#noise)" opacity=".13"/>
+  <ellipse cx="450" cy="718" rx="196" ry="38" fill="#1F241D" opacity=".16"/>
+  <path d="M330 220h240v66H330z" rx="18" fill="#24251F"/>
+  <path d="M365 280h170c44 0 80 36 80 80v260c0 66-54 120-120 120h-90c-66 0-120-54-120-120V360c0-44 36-80 80-80Z" fill="#ECE5D8"/>
+  <path d="M308 405h284v164H308z" fill="#626E48"/>
+  <path d="M342 438h216v92H342z" stroke="#F7F1E7" stroke-width="8"/>
+  <text x="450" y="505" text-anchor="middle" font-size="54" font-family="Arial, sans-serif" font-weight="800" fill="#F7F1E7">CREATINE</text>
+</svg>

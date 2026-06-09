@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" fill="none">
+  <rect width="900" height="900" fill="#EEE8DD"/>
+  <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".75" numOctaves="4" stitchTiles="stitch"/></filter>
+  <rect width="900" height="900" filter="url(#noise)" opacity=".16"/>
+  <ellipse cx="450" cy="710" rx="210" ry="42" fill="#1F241D" opacity=".18"/>
+  <path d="M318 198h264l-28 66H346l-28-66Z" fill="#393833"/>
+  <path d="M350 254h200c32 0 58 26 58 58v330c0 54-44 98-98 98H390c-54 0-98-44-98-98V312c0-32 26-58 58-58Z" fill="#F7F1E7"/>
+  <path d="M309 330h282v296H309z" fill="#B46A3C"/>
+  <path d="M309 330h282v296H309z" fill="url(#g)" opacity=".42"/>
+  <path d="M356 387h188v15H356v-15Zm0 48h136v12H356v-12Zm0 150h188v12H356v-12Z" fill="#F7F1E7"/>
+  <text x="450" y="520" text-anchor="middle" font-size="76" font-family="Arial, sans-serif" font-weight="800" fill="#F7F1E7">NX</text>
+  <defs>
+    <linearGradient id="g" x1="309" y1="330" x2="591" y2="626" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3C989"/>
+      <stop offset=".48" stop-color="#B46A3C"/>
+      <stop offset="1" stop-color="#30362B"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "goal-001",
+    "slug": "kas-gelisimi",
+    "name": "Protein Ürünleri",
+    "description": "Protein, kreatin ve toparlanma ürünlerini aynı ürün grubunda inceleyin.",
+    "meterLabel": "Protein ürünleri",
+    "accent": "orange",
+    "recommendedProducts": {
+      "Başlangıç": {
+        "Toz": ["apex-whey-izolat", "mikronize-kreatin"],
+        "Kapsül": ["gece-toparlanma-kompleksi"],
+        "Paket": ["elite-performans-paketi"]
+      },
+      "Orta": {
+        "Toz": ["apex-whey-izolat", "mikronize-kreatin", "kolajen-eklem-matrisi"],
+        "Kapsül": ["gece-toparlanma-kompleksi"],
+        "Paket": ["elite-performans-paketi"]
+      },
+      "İleri": {
+        "Toz": ["apex-whey-izolat", "mikronize-kreatin", "ignition-pre-workout"],
+        "Kapsül": ["gece-toparlanma-kompleksi"],
+        "Paket": ["elite-performans-paketi"]
+      }
+    }
+  },
+  {
+    "id": "goal-002",
+    "slug": "guc",
+    "name": "Kreatin",
+    "description": "Kreatin ve antrenman öncesi destekleri kuvvet odağıyla değerlendirin.",
+    "meterLabel": "Kreatin",
+    "accent": "ice",
+    "recommendedProducts": {
+      "Başlangıç": {
+        "Toz": ["mikronize-kreatin", "kolajen-eklem-matrisi"],
+        "Kapsül": ["gece-toparlanma-kompleksi"],
+        "Paket": ["elite-performans-paketi"]
+      },
+      "Orta": {
+        "Toz": ["mikronize-kreatin", "ignition-pre-workout"],
+        "Kapsül": ["gece-toparlanma-kompleksi"],
+        "Paket": ["elite-performans-paketi"]
+      },
+      "İleri": {
+        "Toz": ["mikronize-kreatin", "ignition-pre-workout", "apex-whey-izolat"],
+        "Kapsül": ["gece-toparlanma-kompleksi"],
+        "Paket": ["elite-performans-paketi"]
+      }
+    }
+  },
+  {
+    "id": "goal-003",
+    "slug": "yag-kaybi",
+    "name": "Diyet Dönemi",
+    "description": "Diyet döneminde destek olabilecek ürünleri daha dikkatli seçin.",
+    "meterLabel": "Diyet dönemi ürünleri",
+    "accent": "orange",
+    "recommendedProducts": {
+      "Başlangıç": {
+        "Toz": ["apex-whey-izolat", "endurance-elektrolit-yakiti"],
+        "Kapsül": ["burn-adaptif-kapsul"],
+        "Paket": ["burn-adaptif-kapsul", "apex-whey-izolat"]
+      },
+      "Orta": {
+        "Toz": ["ignition-pre-workout", "apex-whey-izolat"],
+        "Kapsül": ["burn-adaptif-kapsul"],
+        "Paket": ["burn-adaptif-kapsul", "ignition-pre-workout", "apex-whey-izolat"]
+      },
+      "İleri": {
+        "Toz": ["ignition-pre-workout", "endurance-elektrolit-yakiti"],
+        "Kapsül": ["burn-adaptif-kapsul"],
+        "Paket": ["burn-adaptif-kapsul", "ignition-pre-workout", "gece-toparlanma-kompleksi"]
+      }
+    }
+  },
+  {
+    "id": "goal-004",
+    "slug": "enerji",
+    "name": "Enerji",
+    "description": "Kafeinli veya hidrasyon odaklı ürünleri kullanım zamanına göre ayırın.",
+    "meterLabel": "Enerji",
+    "accent": "ice",
+    "recommendedProducts": {
+      "Başlangıç": {
+        "Toz": ["endurance-elektrolit-yakiti"],
+        "Kapsül": ["burn-adaptif-kapsul"],
+        "Paket": ["ignition-pre-workout", "endurance-elektrolit-yakiti"]
+      },
+      "Orta": {
+        "Toz": ["ignition-pre-workout", "endurance-elektrolit-yakiti"],
+        "Kapsül": ["burn-adaptif-kapsul"],
+        "Paket": ["elite-performans-paketi"]
+      },
+      "İleri": {
+        "Toz": ["ignition-pre-workout", "endurance-elektrolit-yakiti", "mikronize-kreatin"],
+        "Kapsül": ["burn-adaptif-kapsul"],
+        "Paket": ["elite-performans-paketi"]
+      }
+    }
+  },
+  {
+    "id": "goal-005",
+    "slug": "toparlanma",
+    "name": "Toparlanma",
+    "description": "Uyku, protein, hidrasyon ve eklem desteği ürünlerini birlikte görün.",
+    "meterLabel": "Toparlanma",
+    "accent": "orange",
+    "recommendedProducts": {
+      "Başlangıç": {
+        "Toz": ["apex-whey-izolat", "endurance-elektrolit-yakiti"],
+        "Kapsül": ["gece-toparlanma-kompleksi"],
+        "Paket": ["gece-toparlanma-kompleksi", "apex-whey-izolat"]
+      },
+      "Orta": {
+        "Toz": ["kolajen-eklem-matrisi", "apex-whey-izolat"],
+        "Kapsül": ["gece-toparlanma-kompleksi"],
+        "Paket": ["elite-performans-paketi"]
+      },
+      "İleri": {
+        "Toz": ["kolajen-eklem-matrisi", "apex-whey-izolat", "endurance-elektrolit-yakiti"],
+        "Kapsül": ["gece-toparlanma-kompleksi"],
+        "Paket": ["elite-performans-paketi"]
+      }
+    }
+  }
+]

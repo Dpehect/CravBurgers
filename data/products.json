@@ -1,0 +1,366 @@
+[
+  {
+    "id": "prod-001",
+    "slug": "whey-precision-isolate",
+    "name": "Whey Precision Isolate",
+    "category": "whey-protein",
+    "categoryLabel": "Whey Protein",
+    "goal": ["kas-gelisimi", "toparlanma"],
+    "format": "Toz",
+    "flavor": "Kavrulmuş kakao",
+    "price": 1890,
+    "rating": 4.9,
+    "shortDescription": "Yüksek protein oranı, düşük şeker ve temiz içim hissi.",
+    "longDescription": "Whey Precision Isolate, günlük protein açığını hızlı ve temiz kapatmak isteyenler için tasarlandı. Ağır tat, yoğun kıvam ve gereksiz dolgu hissinden uzak; antrenman sonrası ya da protein eksiği olan öğünlerde net bir çözüm.",
+    "usagePurpose": "Kas gelişimi ve toparlanma dönemlerinde protein alımını tamamlamak.",
+    "benefits": ["25 g protein", "Düşük şeker", "Hafif içim", "Kolay karışım"],
+    "ingredients": ["Whey protein izolat", "Kakao tozu", "Sindirim enzimi karışımı", "Deniz tuzu"],
+    "formula": [
+      { "label": "Protein", "value": "25 g", "note": "Porsiyon başına" },
+      { "label": "Şeker", "value": "1.2 g", "note": "Düşük şeker profili" },
+      { "label": "Laktoz", "value": "Düşük", "note": "İzolat bazlı formül" }
+    ],
+    "usage": [
+      "Bir ölçeği 250-300 ml soğuk su veya süt ile karıştırın.",
+      "Antrenmandan sonra ya da günlük protein hedefinizi tamamlamak için kullanın.",
+      "Ana öğün yerine değil, planlı beslenmeye destek olarak düşünün."
+    ],
+    "suitableFor": ["Protein hedefini kaçıranlar", "Direnç antrenmanı yapanlar", "Yoğun günlerde pratik çözüm arayanlar"],
+    "nutritionFacts": {
+      "Porsiyon": "32 g",
+      "Protein": "25 g",
+      "Karbonhidrat": "2.1 g",
+      "Şeker": "1.2 g",
+      "Yağ": "1.4 g"
+    },
+    "faqs": [
+      { "question": "Her gün kullanılır mı?", "answer": "Protein ihtiyacınız varsa kullanılabilir; asıl belirleyici gün sonundaki toplam protein alımıdır." },
+      { "question": "Sütle mi suyla mı?", "answer": "Su daha hafif olur, süt daha tok ve kremamsı bir içim verir." }
+    ],
+    "image": "/placeholders/product-tub.svg",
+    "gallery": ["/placeholders/product-tub.svg", "/placeholders/lab-poster.svg"],
+    "featured": true,
+    "bestSeller": true,
+    "stockStatus": "Stokta",
+    "accent": "copper",
+    "shape": "tub"
+  },
+  {
+    "id": "prod-002",
+    "slug": "creatine-mono-lab",
+    "name": "Creatine Mono Lab",
+    "category": "kreatin",
+    "categoryLabel": "Kreatin",
+    "goal": ["guc", "kas-gelisimi"],
+    "format": "Toz",
+    "flavor": "Aromasız",
+    "price": 990,
+    "rating": 4.8,
+    "shortDescription": "Günlük 5 g saf kreatin monohidrat. Sade, net, takip etmesi kolay.",
+    "longDescription": "Creatine Mono Lab, performans rutininde karmaşaya yer bırakmayan temel bir destek. Zamanlamadan çok düzenli kullanım mantığıyla çalışır; antrenman günlerinde de dinlenme günlerinde de basit bir alışkanlık olarak konumlanır.",
+    "usagePurpose": "Kuvvet, tekrar kalitesi ve yüksek yoğunluklu performans rutinlerini desteklemek.",
+    "benefits": ["5 g kreatin", "Aromasız", "Mikronize yapı", "Günlük kullanım"],
+    "ingredients": ["Mikronize kreatin monohidrat"],
+    "formula": [
+      { "label": "Kreatin", "value": "5 g", "note": "Tek aktif içerik" },
+      { "label": "Tatlandırıcı", "value": "Yok", "note": "Aromasız kullanım" },
+      { "label": "Karışım", "value": "Mikronize", "note": "Suda daha rahat dağılır" }
+    ],
+    "usage": [
+      "Her gün bir ölçek kullanın.",
+      "Su, meyve suyu veya protein shake içine eklenebilir.",
+      "Düzenli kullanım, karmaşık zamanlama planlarından daha önemlidir."
+    ],
+    "suitableFor": ["Kuvvet antrenmanı yapanlar", "Temel supplement isteyenler", "Uyarıcı kullanmak istemeyenler"],
+    "nutritionFacts": {
+      "Porsiyon": "5 g",
+      "Kreatin monohidrat": "5 g",
+      "Kalori": "0",
+      "Şeker": "0 g"
+    },
+    "faqs": [
+      { "question": "Yükleme yapmak şart mı?", "answer": "Hayır. Günlük 3-5 g düzenli kullanım çoğu kişi için daha pratik bir yaklaşımdır." },
+      { "question": "Antrenman olmayan günlerde?", "answer": "Kreatin düzenli kullanım mantığıyla çalıştığı için dinlenme günlerinde de alınabilir." }
+    ],
+    "image": "/placeholders/product-jar.svg",
+    "gallery": ["/placeholders/product-jar.svg", "/placeholders/lab-poster.svg"],
+    "featured": true,
+    "bestSeller": true,
+    "stockStatus": "Stokta",
+    "accent": "olive",
+    "shape": "jar"
+  },
+  {
+    "id": "prod-003",
+    "slug": "focus-drive-pre-workout",
+    "name": "Focus Drive Pre-Workout",
+    "category": "pre-workout",
+    "categoryLabel": "Pre-Workout",
+    "goal": ["enerji", "odak", "guc"],
+    "format": "Toz",
+    "flavor": "Narenciye tuzu",
+    "price": 1490,
+    "rating": 4.7,
+    "shortDescription": "Antrenman öncesi enerji, odak ve set kalitesi için kontrollü formül.",
+    "longDescription": "Focus Drive, yüksek sesli vaatler yerine net bir antrenman hissi için hazırlandı. Kafein, sitrülin, beta-alanin ve L-teanin kombinasyonu; özellikle yorgun günlerde ritmi toparlamaya yardımcı olur.",
+    "usagePurpose": "Antrenman öncesi uyanıklık, odak ve pomp hissini desteklemek.",
+    "benefits": ["180 mg kafein", "6 g sitrülin", "L-teanin", "Kontrollü enerji"],
+    "ingredients": ["L-sitrülin malat", "Beta-alanin", "Kafein anhidrus", "L-teanin", "Rhodiola ekstresi"],
+    "formula": [
+      { "label": "Kafein", "value": "180 mg", "note": "Orta-yüksek uyarıcı profil" },
+      { "label": "Sitrülin", "value": "6 g", "note": "Antrenman hissi ve pomp" },
+      { "label": "Beta-alanin", "value": "3.2 g", "note": "Yoğun set desteği" }
+    ],
+    "usage": [
+      "Bir ölçeği 300-350 ml su ile karıştırın.",
+      "Antrenmandan 20-30 dakika önce kullanın.",
+      "Kafeine hassassanız yarım porsiyonla toleransınızı görün."
+    ],
+    "suitableFor": ["Akşam geç saatlerde antrenman yapmayanlar", "Yoğun setlerde odak isteyenler", "Kafein toleransı olanlar"],
+    "nutritionFacts": {
+      "Porsiyon": "14 g",
+      "Kafein": "180 mg",
+      "L-sitrülin malat": "6 g",
+      "Beta-alanin": "3.2 g",
+      "Kalori": "12"
+    },
+    "faqs": [
+      { "question": "Karıncalanma normal mi?", "answer": "Beta-alanin bazı kişilerde karıncalanma hissi yaratabilir. Rahatsız ederse porsiyon bölünebilir." },
+      { "question": "Kahveyle birlikte alınır mı?", "answer": "Aynı gün toplam kafein miktarını yükselteceği için dikkatli olmak gerekir." }
+    ],
+    "image": "/placeholders/product-tub.svg",
+    "gallery": ["/placeholders/product-tub.svg", "/placeholders/video-poster.svg"],
+    "featured": true,
+    "bestSeller": true,
+    "stockStatus": "Stokta",
+    "accent": "graphite",
+    "shape": "tub"
+  },
+  {
+    "id": "prod-004",
+    "slug": "essential-amino-eaa",
+    "name": "Essential Amino EAA",
+    "category": "amino-asit",
+    "categoryLabel": "Amino Asit",
+    "goal": ["toparlanma", "dayaniklilik"],
+    "format": "Toz",
+    "flavor": "Beyaz şeftali",
+    "price": 1190,
+    "rating": 4.6,
+    "shortDescription": "Dokuz temel amino asidi hafif içimli bir antrenman içeceğinde toplar.",
+    "longDescription": "Essential Amino EAA, öğün araları uzayan, antrenmanı aç yapan veya protein alımını gün içine yaymak isteyenler için sade bir destek. Ağır şekerli spor içeceği hissinden uzak, hafif ve ferah bir profil.",
+    "usagePurpose": "Antrenman sırasında veya öğün aralarında temel amino asit alımını desteklemek.",
+    "benefits": ["9 temel amino asit", "Şekersiz", "Hafif içim", "Antrenman içi kullanım"],
+    "ingredients": ["L-lösin", "L-izolösin", "L-valin", "L-lizin", "L-treonin", "L-fenilalanin", "L-metiyonin", "L-histidin", "L-triptofan"],
+    "formula": [
+      { "label": "EAA kompleksi", "value": "8 g", "note": "Dokuz temel amino asit" },
+      { "label": "Şeker", "value": "0 g", "note": "Antrenman sırasında hafif içim" },
+      { "label": "Sodyum", "value": "120 mg", "note": "Terleme dönemleri için destek" }
+    ],
+    "usage": [
+      "Bir ölçeği 500 ml suya ekleyin.",
+      "Antrenman sırasında yudumlayarak veya öğün aralarında kullanın.",
+      "Yeterli protein alıyorsanız zorunlu bir ürün değildir; ihtiyaca göre konumlandırın."
+    ],
+    "suitableFor": ["Uzun antrenman yapanlar", "Öğün arası uzayanlar", "Hafif içimli destek arayanlar"],
+    "nutritionFacts": {
+      "Porsiyon": "10 g",
+      "EAA kompleksi": "8 g",
+      "Şeker": "0 g",
+      "Sodyum": "120 mg"
+    },
+    "faqs": [
+      { "question": "BCAA'dan farkı ne?", "answer": "BCAA üç amino asittir; EAA vücudun üretemediği dokuz temel amino asidin tamamını kapsar." },
+      { "question": "Protein tozu yerine geçer mi?", "answer": "Hayır. Protein tozu daha geniş bir protein kaynağıdır; EAA belirli kullanım anları için düşünülür." }
+    ],
+    "image": "/placeholders/product-pouch.svg",
+    "gallery": ["/placeholders/product-pouch.svg", "/placeholders/video-poster.svg"],
+    "featured": false,
+    "bestSeller": false,
+    "stockStatus": "Stokta",
+    "accent": "copper",
+    "shape": "pouch"
+  },
+  {
+    "id": "prod-005",
+    "slug": "daily-mineral-vitamin",
+    "name": "Daily Mineral + Vitamin",
+    "category": "vitamin",
+    "categoryLabel": "Vitamin",
+    "goal": ["denge", "toparlanma"],
+    "format": "Kapsül",
+    "flavor": "Aromasız",
+    "price": 790,
+    "rating": 4.8,
+    "shortDescription": "D3, K2, magnezyum ve çinko ile sade bir günlük temel.",
+    "longDescription": "Daily Mineral + Vitamin, karmaşık multivitamin listeleri yerine günlük rutinde en sık unutulan temel başlıklara odaklanır. İddialı bir dönüşüm vaadi değil; düzenli bir altyapı hissi sunar.",
+    "usagePurpose": "Günlük mineral ve vitamin rutinini sadeleştirmek.",
+    "benefits": ["D3 + K2", "Magnezyum", "Çinko", "Günlük rutin"],
+    "ingredients": ["D3 vitamini", "K2 vitamini", "Magnezyum bisglisinat", "Çinko pikolinat"],
+    "formula": [
+      { "label": "D3", "value": "2000 IU", "note": "Günlük destek" },
+      { "label": "K2", "value": "75 mcg", "note": "D3 ile birlikte" },
+      { "label": "Magnezyum", "value": "120 mg", "note": "Bisglisinat formu" }
+    ],
+    "usage": [
+      "Günde iki kapsül, tercihen ana öğünle birlikte kullanın.",
+      "Düzenli ilaç kullanıyorsanız veya özel sağlık durumunuz varsa uzman görüşü alın.",
+      "Takip kolaylığı için aynı öğünde kullanmayı alışkanlık haline getirin."
+    ],
+    "suitableFor": ["Günlük temel isteyenler", "Yoğun çalışma temposunda rutini sadeleştirmek isteyenler", "Uyarıcı içermeyen ürün arayanlar"],
+    "nutritionFacts": {
+      "Porsiyon": "2 kapsül",
+      "D3 vitamini": "2000 IU",
+      "K2 vitamini": "75 mcg",
+      "Magnezyum": "120 mg",
+      "Çinko": "10 mg"
+    },
+    "faqs": [
+      { "question": "Sabah mı akşam mı?", "answer": "Ana öğünle birlikte almak çoğu kişi için pratik olur; düzenli kullanım zamanı kişisel rutine göre seçilebilir." },
+      { "question": "Multivitamin mi?", "answer": "Geniş içerikli bir multivitamin değil; seçilmiş mineral ve vitamin desteğidir." }
+    ],
+    "image": "/placeholders/product-bottle.svg",
+    "gallery": ["/placeholders/product-bottle.svg", "/placeholders/lab-poster.svg"],
+    "featured": false,
+    "bestSeller": true,
+    "stockStatus": "Stokta",
+    "accent": "olive",
+    "shape": "bottle"
+  },
+  {
+    "id": "prod-006",
+    "slug": "electrolyte-flow",
+    "name": "Electrolyte Flow",
+    "category": "vitamin",
+    "categoryLabel": "Vitamin",
+    "goal": ["dayaniklilik", "denge"],
+    "format": "Toz",
+    "flavor": "Limon kabuğu",
+    "price": 890,
+    "rating": 4.7,
+    "shortDescription": "Terleme, uzun antrenman ve sıcak günler için elektrolit karışımı.",
+    "longDescription": "Electrolyte Flow, spor içeceği kalabalığı olmadan sodyum, potasyum ve magnezyumu dengeli şekilde sunar. Uzun yürüyüş, koşu, bisiklet ya da yoğun terleme dönemlerinde suyun daha planlı kullanılmasına yardım eder.",
+    "usagePurpose": "Sıvı-mineral dengesini ve uzun eforlarda içim disiplinini desteklemek.",
+    "benefits": ["Sodyum", "Potasyum", "Magnezyum", "Şekersiz"],
+    "ingredients": ["Sodyum sitrat", "Potasyum klorür", "Magnezyum malat", "Hindistan cevizi suyu tozu"],
+    "formula": [
+      { "label": "Sodyum", "value": "650 mg", "note": "Terleme dönemleri" },
+      { "label": "Potasyum", "value": "240 mg", "note": "Elektrolit dengesi" },
+      { "label": "Magnezyum", "value": "70 mg", "note": "Malat formu" }
+    ],
+    "usage": [
+      "Bir ölçeği 500-700 ml suya ekleyin.",
+      "Uzun antrenmanlarda yudumlayarak kullanın.",
+      "Tansiyon veya böbrek problemi olanlar elektrolit ürünlerini uzmanla değerlendirmelidir."
+    ],
+    "suitableFor": ["Çok terleyenler", "Uzun süreli antrenman yapanlar", "Şekersiz içim isteyenler"],
+    "nutritionFacts": {
+      "Porsiyon": "8 g",
+      "Sodyum": "650 mg",
+      "Potasyum": "240 mg",
+      "Magnezyum": "70 mg",
+      "Şeker": "0 g"
+    },
+    "faqs": [
+      { "question": "Her antrenmanda gerekir mi?", "answer": "Kısa ve düşük terlemeli antrenmanlarda şart değildir. Uzun, sıcak veya yoğun terlemeli seanslarda daha anlamlıdır." },
+      { "question": "Tatlı mı?", "answer": "Şekerli spor içeceği gibi değil; limon kabuğu hissi olan hafif bir içim verir." }
+    ],
+    "image": "/placeholders/product-pouch.svg",
+    "gallery": ["/placeholders/product-pouch.svg", "/placeholders/video-poster.svg"],
+    "featured": false,
+    "bestSeller": false,
+    "stockStatus": "Az stok",
+    "accent": "graphite",
+    "shape": "pouch"
+  },
+  {
+    "id": "prod-007",
+    "slug": "night-repair-complex",
+    "name": "Night Repair Complex",
+    "category": "vitamin",
+    "categoryLabel": "Vitamin",
+    "goal": ["toparlanma", "denge"],
+    "format": "Kapsül",
+    "flavor": "Aromasız",
+    "price": 1090,
+    "rating": 4.6,
+    "shortDescription": "Akşam rutini için magnezyum, glisin ve vişne ekstresi.",
+    "longDescription": "Night Repair Complex, yoğun antrenman dönemlerinde günün kapanışını daha bilinçli hale getirmek için kurgulandı. Uyku vaadi satmaz; akşam rutininin sakin, tekrar edilebilir ve toparlanma odaklı olmasına yardım eder.",
+    "usagePurpose": "Akşam toparlanma rutinini desteklemek.",
+    "benefits": ["Magnezyum", "Glisin", "Vişne ekstresi", "Melatoninsiz"],
+    "ingredients": ["Magnezyum bisglisinat", "Glisin", "Vişne ekstresi", "L-teanin"],
+    "formula": [
+      { "label": "Magnezyum", "value": "200 mg", "note": "Bisglisinat formu" },
+      { "label": "Glisin", "value": "1 g", "note": "Akşam rutini" },
+      { "label": "Vişne ekstresi", "value": "480 mg", "note": "Toparlanma desteği" }
+    ],
+    "usage": [
+      "Yatmadan 30-60 dakika önce üç kapsül kullanın.",
+      "Geç saat kafein alımını azaltmakla birlikte düşünün.",
+      "Sakinleştirici ilaç kullanıyorsanız önce uzman görüşü alın."
+    ],
+    "suitableFor": ["Yoğun antrenman yapanlar", "Akşam rutinini düzenlemek isteyenler", "Melatoninsiz seçenek arayanlar"],
+    "nutritionFacts": {
+      "Porsiyon": "3 kapsül",
+      "Magnezyum": "200 mg",
+      "Glisin": "1 g",
+      "Vişne ekstresi": "480 mg"
+    },
+    "faqs": [
+      { "question": "Uyku ilacı mı?", "answer": "Hayır. Melatonin veya ilaç içermez; akşam toparlanma rutinine destek olarak düşünülür." },
+      { "question": "Pre-workout ile aynı gün?", "answer": "Aynı gün kullanılabilir; fakat geç saat kafein tüketimi uyku kalitesini bozabilir." }
+    ],
+    "image": "/placeholders/product-bottle.svg",
+    "gallery": ["/placeholders/product-bottle.svg", "/placeholders/lab-poster.svg"],
+    "featured": false,
+    "bestSeller": false,
+    "stockStatus": "Stokta",
+    "accent": "copper",
+    "shape": "bottle"
+  },
+  {
+    "id": "prod-008",
+    "slug": "performance-stack-01",
+    "name": "Performance Stack 01",
+    "category": "stack",
+    "categoryLabel": "Stack",
+    "goal": ["kas-gelisimi", "guc", "odak", "toparlanma"],
+    "format": "Paket",
+    "flavor": "Karma paket",
+    "price": 3990,
+    "rating": 4.9,
+    "shortDescription": "Whey, kreatin, pre-workout ve elektroliti tek performans sisteminde toplar.",
+    "longDescription": "Performance Stack 01, ayrı ayrı ürün seçmek istemeyen kullanıcılar için güçlü ama anlaşılır bir başlangıç sistemi. Antrenman öncesi hazırlık, antrenman sonrası protein ve günlük kreatin alışkanlığını aynı çatıya alır.",
+    "usagePurpose": "Güç, protein, odak ve sıvı-mineral rutinini tek sistemde kurmak.",
+    "benefits": ["4 ürün sistemi", "Rutin takibi", "Antrenman günleri", "Başlangıç paketi"],
+    "ingredients": ["Whey Precision Isolate", "Creatine Mono Lab", "Focus Drive Pre-Workout", "Electrolyte Flow"],
+    "formula": [
+      { "label": "Protein", "value": "25 g", "note": "Whey porsiyonunda" },
+      { "label": "Kreatin", "value": "5 g", "note": "Günlük kullanım" },
+      { "label": "Kafein", "value": "180 mg", "note": "Pre-workout porsiyonunda" }
+    ],
+    "usage": [
+      "Her ürünü kendi kullanım önerisine göre konumlandırın.",
+      "Kreatini günlük, whey'i protein ihtiyacına göre, pre-workout'u antrenman öncesi kullanın.",
+      "Uyarıcı hassasiyetiniz varsa pre-workout porsiyonunu düşürün."
+    ],
+    "suitableFor": ["Rutinini tek yerden kurmak isteyenler", "Kuvvet antrenmanı yapanlar", "Ürün seçimini sadeleştirmek isteyenler"],
+    "nutritionFacts": {
+      "Paket": "4 ürün",
+      "Protein": "Whey porsiyonunda 25 g",
+      "Kreatin": "Günlük 5 g",
+      "Kafein": "Pre-workout porsiyonunda 180 mg"
+    },
+    "faqs": [
+      { "question": "Yeni başlayanlar kullanabilir mi?", "answer": "Evet, fakat pre-workout için yarım porsiyonla tolerans görmek daha iyi olabilir." },
+      { "question": "Her ürün aynı anda mı alınır?", "answer": "Hayır. Stack mantığı, ürünleri doğru zamanda kullanarak rutini kurmaktır." }
+    ],
+    "image": "/placeholders/product-stack.svg",
+    "gallery": ["/placeholders/product-stack.svg", "/placeholders/video-poster.svg"],
+    "featured": true,
+    "bestSeller": true,
+    "stockStatus": "Stokta",
+    "accent": "olive",
+    "shape": "stack"
+  }
+]

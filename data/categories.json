@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cat-001",
+    "slug": "whey-protein",
+    "name": "Whey Protein",
+    "description": "Günlük protein hedefini pratik ve temiz bir formülle tamamlamak isteyenler için.",
+    "image": "/placeholders/product-tub.svg",
+    "icon": "Atom"
+  },
+  {
+    "id": "cat-002",
+    "slug": "kreatin",
+    "name": "Kreatin",
+    "description": "Kuvvet, tekrar kalitesi ve düzenli performans alışkanlığı için temel destek.",
+    "image": "/placeholders/product-jar.svg",
+    "icon": "Dumbbell"
+  },
+  {
+    "id": "cat-003",
+    "slug": "pre-workout",
+    "name": "Pre-Workout",
+    "description": "Antrenman öncesi enerji, odak ve kontrollü uyarıcı yönetimi.",
+    "image": "/placeholders/product-tub.svg",
+    "icon": "Zap"
+  },
+  {
+    "id": "cat-004",
+    "slug": "amino-asit",
+    "name": "Amino Asit",
+    "description": "Antrenman içi kullanım ve öğün arası amino asit desteği.",
+    "image": "/placeholders/product-pouch.svg",
+    "icon": "Activity"
+  },
+  {
+    "id": "cat-005",
+    "slug": "vitamin",
+    "name": "Vitamin",
+    "description": "Mineral, elektrolit ve akşam toparlanma rutinleri için sade formüller.",
+    "image": "/placeholders/product-bottle.svg",
+    "icon": "ShieldCheck"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "faq-001",
+    "question": "Ürün görselleri gerçek mi?",
+    "answer": "Şu an kullanılan görseller placeholder. Gerçek ürün fotoğrafları, video posterleri ve içerikler daha sonra aynı alanlara kolayca eklenebilir."
+  },
+  {
+    "id": "faq-002",
+    "question": "Hangi supplement ile başlamalıyım?",
+    "answer": "Önce hedefinizi ve beslenme düzeninizdeki boşluğu netleştirin. Protein açığı varsa whey, kuvvet odağı varsa kreatin, enerji ihtiyacı varsa pre-workout daha anlamlı olabilir."
+  },
+  {
+    "id": "faq-003",
+    "question": "Pre-workout herkese uygun mu?",
+    "answer": "Hayır. Kafein hassasiyeti, tansiyon, kalp ritmi, anksiyete, uyku sorunu veya düzenli ilaç kullanımı varsa uzman görüşü alınmalıdır."
+  },
+  {
+    "id": "faq-004",
+    "question": "Kreatin antrenman olmayan günlerde kullanılır mı?",
+    "answer": "Evet. Kreatin düzenli kullanım mantığıyla çalışır; yalnızca antrenman saatine bağlı bir ürün gibi düşünülmemelidir."
+  },
+  {
+    "id": "faq-005",
+    "question": "Sepet ve ödeme gerçek mi?",
+    "answer": "Bu sürüm portfolyo ve ürün deneyimi prototipidir. Sepet arayüzü çalışır, ödeme entegrasyonu için yapı hazır bırakılmıştır."
+  },
+  {
+    "id": "faq-006",
+    "question": "İçerikleri sonra değiştirmek zor mu?",
+    "answer": "Hayır. Ürünler data/products.json, rehber içerikleri data/articles.json üzerinden yönetiliyor. Gerçek marka metinleri geldiğinde bileşenleri bozmadan güncellenebilir."
+  }
+]

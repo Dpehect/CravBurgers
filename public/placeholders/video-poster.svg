@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" fill="none">
+  <rect width="1600" height="1000" fill="#252620"/>
+  <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".68" numOctaves="4"/></filter>
+  <rect width="1600" height="1000" filter="url(#noise)" opacity=".18"/>
+  <path d="M0 0h1600v1000H0z" fill="url(#g)" opacity=".82"/>
+  <circle cx="800" cy="500" r="132" fill="#EEE8DD" opacity=".12"/>
+  <path d="M760 425v150l128-75-128-75Z" fill="#F1E8DA"/>
+  <path d="M170 175h1260v650H170z" stroke="#F1E8DA" stroke-width="3" opacity=".34"/>
+  <text x="238" y="770" font-size="46" font-family="Arial, sans-serif" font-weight="800" fill="#F1E8DA">VIDEO PLACEHOLDER</text>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1600" y2="1000">
+      <stop stop-color="#2F332B"/>
+      <stop offset=".55" stop-color="#B46A3C"/>
+      <stop offset="1" stop-color="#EEE8DD"/>
+    </linearGradient>
+  </defs>
+</svg>

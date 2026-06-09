@@ -1,0 +1,8 @@
+[
+  { "id": "home", "label": "Ana Sayfa", "href": "/" },
+  { "id": "products", "label": "Ürünler", "href": "/urunler" },
+  { "id": "guide", "label": "Rehber", "href": "/rehber" },
+  { "id": "about", "label": "Hakkımızda", "href": "/hakkimizda" },
+  { "id": "faq", "label": "SSS", "href": "/sss" },
+  { "id": "contact", "label": "İletişim", "href": "/iletisim" }
+]

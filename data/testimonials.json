@@ -1,0 +1,23 @@
+[
+  {
+    "id": "t-001",
+    "name": "Ece A.",
+    "role": "Hibrit antrenman / İstanbul",
+    "quote": "Ürünü seçerken neyi neden aldığımı görmek iyi hissettirdi. Özellikle kreatin ve elektrolit tarafında bilgi kalabalığı yok.",
+    "metric": "12 haftalık rutin"
+  },
+  {
+    "id": "t-002",
+    "name": "Mert K.",
+    "role": "Kuvvet antrenmanı / Ankara",
+    "quote": "Pre-workout sert bir patlama gibi değil, daha kontrollü bir antrenman başlangıcı verdi. Benim için önemli olan buydu.",
+    "metric": "Haftada 4 seans"
+  },
+  {
+    "id": "t-003",
+    "name": "Deniz S.",
+    "role": "Koşu + gym / İzmir",
+    "quote": "Protein tadı ağır gelmedi. Sepete eklemeden önce besin değerlerini ve kullanım önerisini hızlıca görebilmek fark yaratıyor.",
+    "metric": "Günlük protein takibi"
+  }
+]

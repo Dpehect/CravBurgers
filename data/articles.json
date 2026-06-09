@@ -1,0 +1,157 @@
+[
+  {
+    "id": "article-001",
+    "slug": "whey-protein-nedir",
+    "title": "Whey Protein Nedir?",
+    "eyebrow": "Protein temeli",
+    "category": "Whey Protein",
+    "excerpt": "Whey proteinin ne işe yaradığını, kimler için mantıklı olduğunu ve etiket okurken hangi detayların önemli olduğunu sade şekilde anlatıyoruz.",
+    "readTime": "6 dk",
+    "level": "Başlangıç",
+    "image": "/placeholders/lab-poster.svg",
+    "content": [
+      "Whey protein, süt proteininden elde edilen pratik bir protein kaynağıdır. Asıl rolü, günlük protein hedefini normal yemeklerle tamamlamakta zorlanan kişilere kolay bir seçenek sunmaktır.",
+      "İyi bir whey ürünü, tek başına kas yapma vaadiyle değil, beslenme planındaki açığı kapatmasıyla anlam kazanır. Yeterli protein, düzenli antrenman ve uyku yoksa ürünün etkisi de sınırlı kalır.",
+      "Etiket okurken porsiyon başına protein miktarı, şeker oranı, aroma yoğunluğu, alerjen bilgisi ve ürünün ne kadar sade formüle edildiği kontrol edilmelidir."
+    ],
+    "modules": [
+      {
+        "title": "Ne zaman mantıklı?",
+        "body": "Öğünlerde yeterli protein alamadığınız günlerde, antrenman sonrasında pratik bir seçenek istediğinizde veya yoğun tempoda hazırlaması kolay bir ara öğün gerektiğinde.",
+        "checkpoints": ["Günlük protein hedefini bil", "Önce normal öğünleri toparla", "Ürünü eksik kalan yere koy"]
+      },
+      {
+        "title": "İzolat ve konsantre farkı",
+        "body": "İzolat ürünler genellikle daha yüksek protein oranı ve daha düşük laktoz/karbonhidrat profiliyle gelir. Konsantre ürünler daha ekonomik olabilir ama içeriği markadan markaya değişir.",
+        "checkpoints": ["Protein oranına bak", "Şeker ve laktozu kontrol et", "Tadı değil etiketi öncele"]
+      }
+    ],
+    "sources": [
+      { "label": "ISSN protein position stand", "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8" }
+    ]
+  },
+  {
+    "id": "article-002",
+    "slug": "kreatin-ne-ise-yarar",
+    "title": "Kreatin Ne İşe Yarar?",
+    "eyebrow": "Güç ve tekrar kalitesi",
+    "category": "Kreatin",
+    "excerpt": "Kreatinin neden temel supplementlerden biri sayıldığını, nasıl kullanıldığını ve tartıdaki değişimin ne anlama geldiğini açıklıyoruz.",
+    "readTime": "7 dk",
+    "level": "Temel",
+    "image": "/placeholders/lab-poster.svg",
+    "content": [
+      "Kreatin, kısa süreli ve yüksek yoğunluklu eforlarda enerji üretimiyle ilişkili bir bileşiktir. Kuvvet antrenmanı, sprint ve patlayıcı hareketlerde tekrar kalitesini desteklemek için kullanılır.",
+      "Kreatin tek seferde hissedilen bir uyarıcı gibi çalışmaz. Daha çok düzenli kullanım ve kas içi kreatin depolarının zamanla doygunluğa yaklaşması mantığıyla ilerler.",
+      "Bazı kişilerde kas içi su tutulumuna bağlı tartı artışı görülebilir. Bu durum yağ kazanımı anlamına gelmez; yine de kilo kategorisi olan sporcular planlamasını buna göre yapmalıdır."
+    ],
+    "modules": [
+      {
+        "title": "Kullanım mantığı",
+        "body": "Çoğu kullanıcı için her gün 3-5 gram düzenli kreatin kullanımı, karmaşık yükleme ve zamanlama protokollerinden daha uygulanabilir bir yoldur.",
+        "checkpoints": ["Her gün aynı doz", "Bol su", "Sabır ve süreklilik"]
+      },
+      {
+        "title": "Kimler dikkat etmeli?",
+        "body": "Böbrek hastalığı, düzenli ilaç kullanımı veya özel sağlık durumu olanlar kreatin kullanmadan önce hekim görüşü almalıdır.",
+        "checkpoints": ["Sağlık geçmişini gözden geçir", "Dozu abartma", "Etiketi sade tut"]
+      }
+    ],
+    "sources": [
+      { "label": "ISSN creatine position stand", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5469049/" }
+    ]
+  },
+  {
+    "id": "article-003",
+    "slug": "pre-workout-neden-kullanilir",
+    "title": "Pre-Workout Neden Kullanılır?",
+    "eyebrow": "Enerji, odak, kontrol",
+    "category": "Pre-Workout",
+    "excerpt": "Pre-workout ürünlerinin neyi iyi yaptığını, nerede abartıldığını ve kafein toleransının neden önemli olduğunu konuşuyoruz.",
+    "readTime": "7 dk",
+    "level": "Orta",
+    "image": "/placeholders/video-poster.svg",
+    "content": [
+      "Pre-workout ürünleri, antrenman öncesinde enerji ve odak hissini toparlamak için kullanılır. İyi bir formül, antrenmana daha hazır girmenizi sağlayabilir ama kötü uyku ve kötü programı telafi etmez.",
+      "Kafein en sık kullanılan içeriklerden biridir. Uyanıklık ve efor algısı üzerinde destek sağlayabilir; fakat tolerans kişiden kişiye değişir.",
+      "Beta-alanin karıncalanma hissi yaratabilir, sitrülin ise pomp ve antrenman hissiyle ilişkilendirilir. Önemli olan toplam uyarıcı yükünü bilmek ve ürünü geç saatlerde bilinçsiz kullanmamaktır."
+    ],
+    "modules": [
+      {
+        "title": "Kafein hesabı",
+        "body": "Aynı gün kahve, enerji içeceği, yağ yakıcı ve pre-workout birlikte kullanılıyorsa toplam kafein hızla yükselir. Etiketteki miktarı gerçek günlük toplamınıza ekleyin.",
+        "checkpoints": ["Toplam kafeini say", "Geç saat kullanma", "Yarım porsiyonla başla"]
+      },
+      {
+        "title": "İyi kullanım anı",
+        "body": "Yoğun ama planlı antrenmanlarda, uyku düzeniniz yerindeyken ve kafeine toleransınızı bildiğinizde daha anlamlıdır.",
+        "checkpoints": ["Önce uyku", "Sonra doz", "En son ürün"]
+      }
+    ],
+    "sources": [
+      { "label": "ISSN caffeine and exercise", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/" }
+    ]
+  },
+  {
+    "id": "article-004",
+    "slug": "protein-ne-zaman-alinmali",
+    "title": "Protein Ne Zaman Alınmalı?",
+    "eyebrow": "Zamanlama değil toplam",
+    "category": "Beslenme",
+    "excerpt": "Antrenman sonrası protein neden popüler, gün içi dağılım neden önemli ve protein tozu bu denklemde nereye oturur?",
+    "readTime": "5 dk",
+    "level": "Başlangıç",
+    "image": "/placeholders/lab-poster.svg",
+    "content": [
+      "Protein zamanlaması konuşulurken en büyük detay çoğu zaman kaçırılır: Gün sonundaki toplam protein alımı genellikle tek bir shake'in saatinden daha belirleyicidir.",
+      "Antrenman sonrası protein almak pratiktir ve toparlanma sürecine yardımcı olabilir. Ancak gün boyu protein alımı düşükse, yalnızca antrenman sonrası shake yeterli bir strateji sayılmaz.",
+      "Protein tozu, öğün yerine geçmesi gereken bir ürün değil; eksik kalan proteini tamamlamaya yarayan hızlı bir araçtır."
+    ],
+    "modules": [
+      {
+        "title": "Pratik dağılım",
+        "body": "Proteini gün içine 3-5 beslenme anına yaymak, tek öğünde yüklenmekten daha sürdürülebilir olabilir.",
+        "checkpoints": ["Öğünleri say", "Eksik kalan yeri bul", "Shake'i oraya koy"]
+      },
+      {
+        "title": "Antrenman sonrası",
+        "body": "Antrenmandan sonraki öğünde kaliteli protein almak iyi bir fikirdir. Bu bir shake olabilir, ama iyi hazırlanmış normal bir öğün de aynı rutine hizmet edebilir.",
+        "checkpoints": ["Pratikse shake", "Mümkünse öğün", "Toplam hedefi unutma"]
+      }
+    ],
+    "sources": [
+      { "label": "ISSN protein position stand", "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8" }
+    ]
+  },
+  {
+    "id": "article-005",
+    "slug": "supplement-kullanirken-nelere-dikkat-edilmeli",
+    "title": "Supplement Kullanırken Nelere Dikkat Edilmeli?",
+    "eyebrow": "Etiket okuma disiplini",
+    "category": "Güvenli Kullanım",
+    "excerpt": "Bir ürünü sepete atmadan önce hedef, dozaj, uyarıcı yükü, alerjen bilgisi ve kalite sinyallerini nasıl kontrol edeceğinizi anlatıyoruz.",
+    "readTime": "8 dk",
+    "level": "Temel",
+    "image": "/placeholders/video-poster.svg",
+    "content": [
+      "Supplement seçerken ilk soru ürünün ne vaat ettiği değil, sizin hangi boşluğu kapatmaya çalıştığınız olmalı. Hedef net değilse ürün seçimi hızlıca kalabalığa dönüşür.",
+      "Etikette aktif içeriklerin isimleri ve porsiyon başına miktarları açık görünmelidir. Gizli karışım ifadeleri dozajı belirsiz bırakıyorsa kullanıcı ne aldığını tam bilemez.",
+      "Uyarıcı içeren ürünlerde toplam kafein hesabı, ilaç kullanımı, tansiyon, kalp ritmi, anksiyete ve uyku kalitesi gibi başlıklar özellikle önemlidir."
+    ],
+    "modules": [
+      {
+        "title": "Satın alma kontrolü",
+        "body": "Hedef, doz, içerik şeffaflığı, alerjen bilgisi ve üçüncü taraf test sinyallerini hızlıca kontrol edin. Gereksiz ürün almamak da iyi bir performans kararıdır.",
+        "checkpoints": ["Hedef net mi?", "Doz açık mı?", "Uyarıcı yükü belli mi?"]
+      },
+      {
+        "title": "Daha iyi soru",
+        "body": "Bu ürün mevcut beslenme, uyku ve antrenman planımda gerçekten bir boşluğu kapatıyor mu? Cevap hayırsa beklemek daha doğru olabilir.",
+        "checkpoints": ["Önce temel", "Sonra ürün", "En son kombinasyon"]
+      }
+    ],
+    "sources": [
+      { "label": "NIH ODS supplement guidance", "url": "https://ods.od.nih.gov/factsheets/WYNTK/" }
+    ]
+  }
+]
