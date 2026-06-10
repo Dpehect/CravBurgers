@@ -40,6 +40,5 @@ The initial loading sequence provides a premium brand introduction by choreograp
 
 
 
-3. Open http://localhost:3001 in your browser.
 
 Website URL: https://www.cravburgers.shop/
